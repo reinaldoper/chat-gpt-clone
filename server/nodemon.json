@@ -1,0 +1,7 @@
+{
+  "watch": ["src"],
+  "ignore": ["logs/"],
+  "execMap": {
+    "js": "node --max-old-space-size=8192"
+  }
+}
